@@ -8,4 +8,4 @@ Currentley intersted in:
 
 ***File-sharing protocols***
 
-[my website](https://oaj.moe) until I switch to Hugo.
+[my website](https://oaj.moe)
